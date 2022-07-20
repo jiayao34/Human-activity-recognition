@@ -1,7 +1,7 @@
-# Human-activity-recognition
-Using UCI dataset
-Human Activity Recognition
-Jiayao Yuan
+# Human activity recognition using wearable sensors
+Using UCI opensouce dataset
+Human Activity Recognition - ML and DL modeling
+Author: Jiayao Yuan, PhD
 
 Classification algorithms were developed to classify 13 different human activities, such as cycling, running, climbing stairs, null activity, etc. The data was collected from ten subjects using four different sensors (accelerometer, gyroscope, magnetometer, and ECG) at three different body locations (right arm, left ankle, and chest) with a total of 23 signals. The goal of my work is to achieve an accuracy of 80%+ when testing algorithms on new subjects, and an accuracy of 90%+ when new subject labels are available. 
 
